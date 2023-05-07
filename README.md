@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning js, nodejs, java, web styling
 - 💞️ I’m looking to collaborate on AI.
-- 📫 How to reach me suman2365bhadra@gmail.com
+- 📫 Reach me suman2365bhadra@gmail.com
 
 <!---
 Sumanbhadra/Sumanbhadra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
