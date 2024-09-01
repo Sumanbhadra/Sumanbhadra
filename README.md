@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sumanbhadra
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning js, nodejs, java, web styling
-- 💞️ I’m looking to collaborate on AI.
+- 🌱 I’m currently learning React.js, nodejs, MongoDB
+- 💞️ I’m looking to collaborate on Web development.
 - 📫 Reach me suman2365bhadra@gmail.com
 
 <!---
